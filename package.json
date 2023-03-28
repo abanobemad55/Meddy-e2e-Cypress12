@@ -1,0 +1,27 @@
+{
+  "name": "meddy-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open --e2e --browser=chrome",
+    "cy:run": "cypress run --e2e --browser=chrome && npm run test:report",
+    "test:report": "node .//cucumber-html-report.js",
+    "format": "prettier --write ."
+  },
+  "author": "Muhammad Adel",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^15.1.5",
+    "@bahmutov/cypress-esbuild-preprocessor": "2.1.5",
+    "cypress": "12.2.0",
+    "esbuild": "0.16.5",
+    "multiple-cucumber-html-reporter": "^3.3.0",
+    "prettier": "2.8.4"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.7.6",
+    "cypress-xpath": "^2.0.1",
+    "moment": "^2.29.4"
+  }
+}

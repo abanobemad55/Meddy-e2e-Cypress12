@@ -1,0 +1,57 @@
+{
+  "qatar": {
+    "normalDoctor": {"slug": "doctor-clinic-visit", "slug_ar": "doctor-clinic-visit", "id": 9608, "name": "Doctor (Clinic Visit)", "name_ar": "" },
+    "instantDoctor":{"slug": "jessica-elizabeth-charles", "slug_ar": "jessica-elizabeth-charles", "id": 8880, "name": "Jessica Elizabeth Charles", "name_ar": "جيسيكا إليزابيث تشارلز" },
+    "walkInDoctor": {"slug": "walk-in-doctor-clinic-visit", "slug_ar": "walk-in-doctor-clinic-visit", "id": 9611, "name": "Walk-In Doctor (Clinic Visit)", "name_ar": ""},
+    "normalVideoDoctor": {"slug": "doctor-video-visit", "slug_ar": "doctor-video-visit", "id": 9609, "name": "", "name_ar": "" },
+    "walkInVideoDoctor": {"slug": "walk-in-doctor-video-visit", "slug_ar": "walk-in-doctor-video-visit", "id": 9612, "name": "", "name_ar": "" },
+    "normalDiscountDoctor": {"slug": "doctor-discount", "slug_ar": "doctor-discount", "id": 9610},
+    "walkInDiscountDoctor": {"slug": "walk-in-doctor-discount", "slug_ar": "walk-in-doctor-discount", "id": 9613},
+    "normalDoctorWithOldPatientsPriceSupport": {"slug": "asma-bettaibi", "slug_ar": "asma-bettaibi", "id": 4965, "name": "Asma Bettaibi", "name_ar": "اسماء البطيبي" },
+    "buyOneGetOneNormalDoctor": {"slug": "", "slug_ar": "", "id": 0},
+    "buyOneGetOneInstantDoctor": {"slug": "", "slug_ar": "", "id": 0}
+  },
+
+
+  "uae": {
+    "normalDoctor": {"slug": "doctor-clinic-visit-uae", "slug_ar": "doctor-clinic-visit-uae", "id": 9614, "name": "Doctor (Clinic Visit) UAE", "name_ar": ""},
+    "instantDoctor":{"slug": "abdelhakim-a-el-gheriani", "slug_ar": "abdelhakim-a-el-gheriani", "id": 1959, "name": "Abdelhakim A. El-Gheriani", "name_ar": "عبد الحكيم الجرياني" },
+    "walkInDoctor": {"slug": "walk-in-doctor-clinic-visit-uae", "slug_ar": "walk-in-doctor-clinic-visit-uae", "id": 9617, "name": "", "name_ar": "" },
+    "normalVideoDoctor": {"slug": "doctor-video-visit-uae", "slug_ar": "doctor-video-visit-uae", "id": 9615, "name": "", "name_ar": "" },
+    "walkInVideoDoctor": {"slug": "walk-in-doctor-video-visit-uae", "slug_ar": "walk-in-doctor-video-visit-uae", "id": 9618, "name": "", "name_ar": "" },
+    "normalDiscountDoctor": {"slug": "doctor-discount-uae", "slug_ar": "doctor-discount-uae", "id": 9616},
+    "walkInDiscountDoctor": {"slug": "walk-in-doctor-discount-uae", "slug_ar": "walk-in-doctor-discount-uae", "id": 9619},
+    "normalDoctorWithOldPatientsPriceSupport": {"slug": "abdul-karim-massadi", "slug_ar": "abdul-karim-massadi", "id": 7126, "name": "Abdul Karim Massadi", "name_ar": "عبدالكريم مسدي" },
+    "buyOneGetOneNormalDoctor": {"slug": "", "slug_ar": "", "id": 0},
+    "buyOneGetOneInstantDoctor": {"slug": "", "slug_ar": "", "id": 0}
+  },
+
+
+  "sa" : {
+    "normalDoctor": {"slug": "doctor-clinic-visit-ksa", "slug_ar": "doctor-clinic-visit-ksa", "id": 9620, "name": "Doctor (Clinic Visit) KSA", "name_ar": ""},
+    "instantDoctor":{"slug": "abdelhakim-a-el-gheriani", "slug_ar": "abdelhakim-a-el-gheriani", "id": 1959, "name": "Abdelhakim A. El-Gheriani", "name_ar": "عبد الحكيم الجرياني" },
+    "walkInDoctor": {"slug": "walk-in-doctor-clinic-visit-ksa", "slug_ar": "walk-in-doctor-clinic-visit-ksa", "id": 9623, "name": "", "name_ar": "" },
+    "normalVideoDoctor": {"slug": "doctor-video-visit-ksa", "slug_ar": "doctor-video-visit-ksa", "id": 9621, "name": "", "name_ar": "" },
+    "walkInVideoDoctor": {"slug": "walk-in-doctor-video-visit-ksa", "slug_ar": "walk-in-doctor-video-visit-ksa", "id": 0, "name": "", "name_ar": "" },
+    "normalDiscountDoctor": {"slug": "doctor-discount-ksa", "slug_ar": "doctor-discount-ksa", "id": 0},
+    "walkInDiscountDoctor": {"slug": "walk-in-doctor-discount-ksa", "slug_ar": "walk-in-doctor-discount-ksa", "id": 0},
+    "normalDoctorWithOldPatientsPriceSupport": {"slug": "abdul-karim-massadi", "slug_ar": "abdul-karim-massadi", "id": 7126, "name": "Abdul Karim Massadi", "name_ar": "عبدالكريم مسدي" },
+    "buyOneGetOneNormalDoctor": {"slug": "", "slug_ar": "", "id": 0},
+    "buyOneGetOneInstantDoctor": {"slug": "", "slug_ar": "", "id": 0}
+  },
+
+  
+  "ng" : {
+    "normalDoctor": {"slug": "doctor-clinic-visit-ng", "slug_ar": "doctor-clinic-visit-ng", "id": 9626, "name": "Doctor (Clinic Visit) NG", "name_ar": ""},
+    "instantDoctor":{"slug": "abdelhakim-a-el-gheriani", "slug_ar": "abdelhakim-a-el-gheriani", "id": 1959, "name": "Abdelhakim A. El-Gheriani", "name_ar": "عبد الحكيم الجرياني" },
+    "walkInDoctor": {"slug": "walk-in-doctor-clinic-visit-ng", "slug_ar": "walk-in-doctor-clinic-visit-ng", "id": 9629, "name": "", "name_ar": "" },
+    "normalVideoDoctor": {"slug": "doctor-video-visit-ng", "slug_ar": "doctor-video-visit-ng", "id": 9627, "name": "", "name_ar": "" },
+    "walkInVideoDoctor": {"slug": "walk-in-doctor-video-visit-ng", "slug_ar": "walk-in-doctor-video-visit-ng", "id": 0, "name": "", "name_ar": "" },
+    "normalDiscountDoctor": {"slug": "doctor-discount-ng", "slug_ar": "doctor-discount-ng", "id": 0},
+    "walkInDiscountDoctor": {"slug": "walk-in-doctor-discount-ng", "slug_ar": "walk-in-doctor-discount-ng", "id": 0},
+    "normalDoctorWithOldPatientsPriceSupport": {"slug": "abdul-karim-massadi", "slug_ar": "abdul-karim-massadi", "id": 7126, "name": "Abdul Karim Massadi", "name_ar": "عبدالكريم مسدي" },
+    "buyOneGetOneNormalDoctor": {"slug": "", "slug_ar": "", "id": 0},
+    "buyOneGetOneInstantDoctor": {"slug": "", "slug_ar": "", "id": 0}
+  }
+
+}
