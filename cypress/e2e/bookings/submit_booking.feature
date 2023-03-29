@@ -1,6 +1,6 @@
 Feature: Submit Booking
 
-  # OTP issue
+  # OTP issue 2
   # @positive @submit_booking @level_1 @normal_doctor @clinic
   # Scenario: 1. Submit a normal clinic booking for a new user
   #   Given I am not logged in
@@ -14,7 +14,7 @@ Feature: Submit Booking
   #   And I choose gender
   #   And I choose no insurance option
   #   And I click on "Submit Booking"
-  #   Then I should see booking submitted page
+  #   Then I should see booking submitted page 
 
   # OTP issue
   # @positive @submit_booking @level_1 @normal_doctor @clinic
